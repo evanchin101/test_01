@@ -1,0 +1,4 @@
+{"backend_state":"ready","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"id":"81184e","input":"","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1644076728575,"type":"user"}
+{"last_load":1644076724273,"type":"file"}
